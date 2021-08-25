@@ -13,14 +13,18 @@ def index():
     return render_template('index.html')
 
 
-@app.route("/about")
-def about():
-    return render_template('about.html')
+#@app.route("/about")
+#def about():
+    #return render_template('about.html')#
 
 
 @app.route("/viz1")
 def visualisation1():
     return render_template('viz1.html')
+
+@app.route("/viz1.5")
+def visualisation5():
+    return render_template('viz1.5.html')
 
 
 @app.route("/viz2")
