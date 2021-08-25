@@ -497,7 +497,7 @@ section {
 }
 
 .section-title p {
-  margin-bottom: 0;
+  margin-bottom: 10;
 }
 
 /*--------------------------------------------------------------
@@ -671,6 +671,7 @@ section {
   margin-left: 85px;
   line-height: 24px;
   font-size: 14px;
+  
 }
 
 .about .video-box {
