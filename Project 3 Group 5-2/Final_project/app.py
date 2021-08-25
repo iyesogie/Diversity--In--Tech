@@ -22,6 +22,10 @@ def about():
 def visualisation1():
     return render_template('viz1.html')
 
+@app.route("/viz1.5")
+def visualisation5():
+    return render_template('viz1.5.html')
+
 
 @app.route("/viz2")
 def visualisation2():
