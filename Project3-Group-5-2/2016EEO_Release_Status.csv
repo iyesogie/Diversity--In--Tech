@@ -1,0 +1,212 @@
+﻿COMPANY,VALUATION   ,OWNERSHIP   ,EEO-1 STATUS
+23andMe,$1.1b,private,YES
+8x8,$1.4b,public,NO
+A10 Networks,$625.0m,public,NO
+Abaxis,$1.1b,public,NO
+Accuray,$394.0m,public,NO
+Adobe Systems,$64.4b,public,YES
+Advanced Micro Devices,$13.7b,public,NO
+Aemetis,$25.0m,public,NO
+Aerohive Networks,$220.0m,public,NO
+Agilent Technologies,$17.0b,public,NO
+Airbnb,$31.0b,private,YES
+Align Technology,$9.2b,public,NO
+Anaplan,$1.1b,private,NO
+AppDirect,$1.0b,private,NO
+Apple,$753.7b,public,YES
+Applied Materials,$42.0b,public,NO
+Applied Micro Circuits,$731.0m,public,NO
+Apttus,$1.3b,private,NO
+Arista Networks,$9.4b,public,NO
+Automattic,$1.2b,private,NO
+Aviat Networks,$80.0m,public,NO
+Barracuda Networks,$1.2b,public,NO
+Bio-Rad Laboratories,$5.9b,public,NO
+Bloom Energy,$2.8b,private,NO
+Box,$2.1b,public,NO
+Brocade Communications,$5.1b,public,NO
+C3 IoT,$1.4b,private,NO
+Cadence Design Systems,$8.8b,public,NO
+Callidus Software,$1.4b,public,NO
+Carbon,$1.0b,private,NO
+Cavium,$4.9b,public,NO
+Chegg,$775.0m,public,NO
+Cisco Systems,$169.3b,public,YES
+CloudFlare,$1.1b,private,NO
+Clover Health,$1.2b,private,YES
+Coherent,$5.0b,public,NO
+Coherus Biosciences,$1.1b,public,NO
+Credit Karma,$3.5b,private,NO
+Crowdstrike,$1.0b,private,NO
+Cypress Semiconductor,$4.5b,public,NO
+Depomed,$779.0m,public,NO
+Docker,$1.0b,private,NO
+Docusign,$3.0b,private,NO
+Dolby Laboratories,$5.3b,public,NO
+Dropbox,$10.4b,private,NO
+DSP Group,$265.0m,public,NO
+eBay,$36.5b,public,YES
+Electronic Arts,$27.6b,public,NO
+Electronics for Imaging,$2.3b,public,NO
+Equinix,$30.7b,public,NO
+Eventbrite,$1.1b,private,NO
+Evernote,$1.0b,private,NO
+Exelixis,$6.3b,public,NO
+Extreme Networks,$812.0m,public,NO
+Facebook,$410.5b,public,YES
+Fair Isaac,$4.0b,public,NO
+FibroGen,$1.6b,public,NO
+Finisar,$3.0b,public,NO
+FireEye,$2.2b,public,NO
+Fitbit,$1.3b,public,NO
+Five9,$896.0m,public,NO
+ForeScout Technologies,$1.0b,private,NO
+Formfactor,$849.0m,public,NO
+Fortinet,$6.7b,public,NO
+Genomic Health,$1.1b,public,NO
+Gigamon,$1.3b,public,NO
+Gilead Sciences,$88.8b,public,NO
+Github,$2.0b,private,NO
+Glu Mobile,$306.0m,public,NO
+Google,$579.4b,public,YES
+GoPro,$1.2b,public,NO
+Guidewire Software,$4.2b,public,NO
+Gusto,$1.1b,private,NO
+Harmonic,$475.0m,public,NO
+Hewlett Packard Enterprise,$39.3b,public,YES
+Hortonworks,$612.0m,public,NO
+Houzz,$4.0b,private,NO
+HP Inc.,$30.2b,public,YES
+illumio,$1.3b,private,NO
+Impax Laboratories,$933.0m,public,NO
+Imperva,$1.4b,public,NO
+Infinera,$1.5b,public,NO
+Inphi,$2.0b,public,NO
+Instacart,$3.4b,private,NO
+Integrated Device Tech.,$3.2b,public,NO
+Intel,$170.5b,public,YES
+Intersil,$3.1b,public,NO
+Intuit,$29.7b,public,YES
+Intuitive Surgical,$28.1b,public,NO
+InvenSense,$1.2b,public,NO
+IXYS,$460.0m,public,NO
+Jawbone,$1.5b,private,NO
+Jive Software,$340.0m,public,NO
+Juniper Networks,$10.6b,public,NO
+Katerra,$1.0b,private,NO
+KLA-Tencor,$14.9b,public,NO
+Lam Research,$20.9b,public,NO
+LendingClub,$2.2b,public,NO
+Linear Technology,$15.7b,public,NO
+LinkedIn,$27.0b,public,YES
+Lookout,$1.0b,private,NO
+Lumentum Holdings,$3.3b,public,NO
+Lyft,$7.5b,private,YES
+Machine Zone,$3.0b,private,NO
+MarkLogic,$1.1b,private,NO
+Maxim Integrated Products,$12.7b,public,NO
+Medallia,$1.3b,private,NO
+MobileIron,$388.0m,public,YES
+Monolithic Power Systems,$3.8b,public,NO
+Nanometrics,$766.0m,public,NO
+Natera,$468.0m,public,NO
+Natus Medical,$1.3b,public,NO
+Nektar Therapeutics,$3.6b,public,NO
+NeoPhotonics,$384.0m,public,NO
+NetApp,$11.3b,public,YES
+Netflix,$63.6b,public,NO
+Netgear,$1.6b,public,NO
+Nevro,$2.7b,public,NO
+New Relic,$2.0b,public,NO
+Nextdoor,$1.1b,private,NO
+Nimble Storage,$1.1b,public,NO
+Nutanix,$2.7b,public,NO
+Nvidia,$64.2b,public,YES
+Oclaro,$1.6b,public,NO
+Omnicell,$1.5b,public,NO
+OpenDoor,$1.1b,private,NO
+Oracle,$183.6b,public,NO
+Palantir Technologies,$20.3b,private,NO
+Palo Alto Networks,$10.4b,public,NO
+Pandora Media,$2.8b,public,NO
+PayPal,$52.0b,public,YES
+Penumbra,$2.8b,public,NO
+Pinterest,$12.3b,private,YES
+Pivotal,$2.8b,private,NO
+Power Integrations,$1.9b,public,NO
+Proofpoint,$3.2b,public,NO
+Prosper,$1.9b,private,NO
+Proteus Digital Health,$1.2b,private,NO
+Pure Storage,$2.0b,public,NO
+Qualys,$1.4b,public,NO
+Quantum,$236.0m,public,NO
+QuinStreet,$177.0m,public,NO
+Quora,$1.8b,private,NO
+Quotient Technology,$851.0m,public,NO
+Rambus,$1.5b,public,NO
+Razer,$1.5b,private,NO
+Reddit,$1.8b,private,NO
+RingCentral,$2.1b,public,NO
+Robinhood,$1.3b,private,NO
+Rocket Fuel,$248.0m,public,NO
+Royole,$3.0b,private,NO
+Rubrik,$1.3b,private,NO
+Salesforce,$58.4b,public,YES
+Sanmina-SCI,$3.0b,public,YES
+ServiceNow,$14.7b,public,NO
+ServiceSource,$343.0m,public,NO
+ShoreTel,$419.0m,public,NO
+Shutterfly,$1.6b,public,NO
+Sigma Designs,$238.0m,public,NO
+Silver Spring Networks,$599.0m,public,NO
+Slack,$3.8b,private,NO
+SoFi,$4.3b,private,NO
+SolarCity,$2.0b,public,NO
+Splunk,$8.6b,public,NO
+Square,$6.3b,public,YES
+Stripe,$9.2b,private,NO
+SunPower,$846.0m,public,NO
+Sunrun,$565.0m,public,NO
+Super Micro Computer,$1.2b,public,NO
+SurveyMonkey,$2.0b,private,NO
+Symantec,$19.0b,public,NO
+Symphony,$1.0b,private,NO
+Synaptics,$1.8b,public,NO
+Synnex,$4.5b,public,NO
+Synopsys,$10.9b,public,NO
+Tango,$1.1b,private,NO
+Tanium,$3.8b,private,NO
+TeleNav,$375.0m,public,NO
+Tesla,$45.4b,public,NO
+Thumbtack,$1.3b,private,NO
+TiVo,$2.3b,public,NO
+Trimble Navigation,$8.1b,public,NO
+Twilio,$2.5b,public,NO
+Twitter,$10.9b,public,YES
+Uber,$62.5b,private,YES
+Ubiquiti Networks,$4.1b,public,NO
+Udacity,$1.0b,private,NO
+Ultra Clean,$563.0m,public,NO
+Ultratech,$798.0m,public,NO
+Unity Technolgoies,$2.6b,private,NO
+Varian Medical Systems,$8.5b,public,NO
+Veeva Systems,$7.1b,public,NO
+VeriFone Systems,$2.1b,public,NO
+Viavi Solutions,$2.5b,public,NO
+View,$1.0b,private,YES
+VMware,$37.7b,public,NO
+WageWorks,$2.7b,public,NO
+Wish,$3.0b,private,NO
+Workday,$16.9b,public,NO
+Xilinx,$14.4b,public,NO
+Xperi,$1.7b,public,NO
+Yahoo,$44.4b,public,NO
+Yelp,$2.6b,public,NO
+YuMe,$139.0m,public,NO
+Zeltiq Aesthetics,$2.3b,public,NO
+Zendesk,$2.8b,public,NO
+Zenefits,$4.5b,private,NO
+Zoom,$1.0b,private,NO
+Zoox,$1.6b,private,NO
+Zscaler,$1.1b,private,NO
+Zynga,$2.5b,public,NO
