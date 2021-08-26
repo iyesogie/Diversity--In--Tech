@@ -2,7 +2,7 @@
 
  
 
-![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/static/img/hero-bg.jpg)
 )
 
 
