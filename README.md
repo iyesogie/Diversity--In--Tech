@@ -60,7 +60,7 @@ What is the breakdown of minorities in High Tech jobs?
 What is the breakdown of minorities in management versus executives?
 * There is more racial and ethnic diversity amongst persons in managerial positions than executives in Silicon Valley. 
 
-![image](https://user-images.githubusercontent.com/79819331/131016322-69910c2b-df0e-4077-baad-d1459723cabe.png)
+![image](https://user-images.githubusercontent.com/79819331/131016498-e43d39a0-1f73-43ae-a33c-fcefb855e625.png)
 
 Which companies did not share their 2016 EEO data publicly? 
 * The following companies did not release their 2016 EEO data publicly:
@@ -114,7 +114,7 @@ Machine Learning
 
 Three machine learning models are used to classify data into private and public: KneighborsClassifier(KNN), Support Vector Machine Tuning Model(GridSearchCV), Deep Learning Model(Sequencital). Accuracy Score of testing data is 0.714, 0.783, and 0.857 separately. It seems Deep Learning Model shows the best accuray score for testing data.
 
-![image](https://user-images.githubusercontent.com/79819331/131015844-a9129a78-95fa-4093-a2c2-269853f696fc.png)
+![image](https://user-images.githubusercontent.com/79819331/131016559-3c9bc871-4868-46bb-941c-d1a8b20c9dd8.png)
 
 
 ![image](https://user-images.githubusercontent.com/79819331/131016043-4e659970-b1b0-4763-b3d0-214423b359b3.png)
