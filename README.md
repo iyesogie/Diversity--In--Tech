@@ -1,6 +1,7 @@
 # Diversity--In--Tech
 
  
+![image](https://user-images.githubusercontent.com/79819331/131012568-354750a0-c04d-4202-94ad-12bdba7087be.png)
 
 ![alt text](https://github.com/iyesogie/Diversity--In--Tech/static/img/hero-bg.jpg)
 
