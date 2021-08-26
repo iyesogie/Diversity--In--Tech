@@ -1,6 +1,7 @@
 # Diversity--In--Tech
 
- 
+ ![image](https://user-images.githubusercontent.com/79819331/131006988-6742643f-ba72-4077-934d-d2ae6debd480.png)
+
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
 )
