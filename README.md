@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/79819331/131013117-a72fd36e-1615-4ea2-bdd2-0f9bc5d7729f.png)
 
-![image](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
+
 
 
 
@@ -32,18 +32,20 @@ Findings
 
 What are the top 10 companies committed to diversity and inclusion before 2018?
 
-	Race
+	Gender
 * 23 & Me, AirBnB, PayPal, Pinterest, Intuit, Lyft, LinkedIn, Sanmina-SCI, eBay, and Square. 
 
 
-![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20race.png)
+![image](https://user-images.githubusercontent.com/79819331/131013687-1e9c73fd-5cec-4b89-b706-b517da1d9b6e.png)
 
 
-
-	Gender 
+	Race 
 * Apple, Intel, eBay, Twitter, Salesforce, MobileIron, Airbnb, 	   Adobe Systems, Intuit, 23 and Me
 
-![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20gender.png)
+![image](https://user-images.githubusercontent.com/79819331/131013559-7d3edfb5-7000-4d60-8152-6156226b8c27.png)
+
+
+
 
 What is the breakdown of minorities in High Tech jobs?
 * 59.01% white
