@@ -60,7 +60,7 @@ What is the breakdown of minorities in High Tech jobs?
 What is the breakdown of minorities in management versus executives?
 * There is more racial and ethnic diversity amongst persons in managerial positions than executives in Silicon Valley. 
 
-![image](https://user-images.githubusercontent.com/79819331/131015277-332b4f7a-71ee-4836-826e-65db777fb9a6.png)
+![image](https://user-images.githubusercontent.com/79819331/131016322-69910c2b-df0e-4077-baad-d1459723cabe.png)
 
 Which companies did not share their 2016 EEO data publicly? 
 * The following companies did not release their 2016 EEO data publicly:
