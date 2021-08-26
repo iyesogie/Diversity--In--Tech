@@ -14,7 +14,7 @@ var layout = {
     automargin: true,
   },
   yaxis:{
-    title:"Accuray Score of Test Samples",},
+    title:"Accuracy Score of Test Samples",},
 }
 // create the bar plot
 Plotly.newPlot("bar-chart", data, layout);
