@@ -1,5 +1,11 @@
 # Diversity--In--Tech
 
+ 
+
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
+)
+
+
 According to Reveal, the United States requires an annual submission of employee gender, race/ethnicity,  and job type from all companies with more than 100 employees. (Rangarajan, 2018) Following submission this data was generally private. This project seeks to understand workplace diversity across tech companies in Silicon Valley in 2016 and the shifts in publicly sharing this data. 
 
 Data 
@@ -23,13 +29,19 @@ We combined EEO_2016.csv and Distrubutions_data_2016.csv to create our database.
 Findings 
 
 What are the top 10 companies committed to diversity and inclusion before 2018?
-Race & ethnicity 
+
+Race
 23 & Me, AirBnB, PayPal, Pinterest, Intuit, Lyft, LinkedIn, Sanmina-SCI, eBay, and Square. 
+
+
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20race.png)
+)
 
 
 Gender 
 Apple, Intel, eBay, Twitter, Salesforce, MobileIron, Airbnb, Adobe Systems, Intuit, 23 and Me
 
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20gender.png)
 
 What is the breakdown of minorities in High Tech jobs?
 59.01% white
@@ -40,11 +52,19 @@ What is the breakdown of minorities in High Tech jobs?
 0.34% American Indian/Alaska Native
 0.30% native Hawaiian/pacific islander 
 
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/minority%20pie%20chart.png)
+
 What is the breakdown of minorities in management versus executives?
 There is more racial and ethnic diversity amongst persons in managerial positions than executives in Silicon Valley. 
 
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/excs%20v.%20managers.png)
+
 Which companies did not share their 2016 EEO data publicly? 
 The following companies did not release their 2016 EEO data publicly:
+
+
+![alt_text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/eeo%202016.png)
+
 
 | Left-aligned | Center-aligned | Right-aligned |
 | 8x8 | A10 Networks | Abaxis |  Accuray | Advanced Micro Devices |
@@ -85,6 +105,10 @@ Machine Learning
 
 
 Three machine learning models are used to classify data into private and public: KneighborsClassifier(KNN), Support Vector Machine Tuning Model(GridSearchCV), Deep Learning Model(Sequencital). Accuracy Score of testing data is 0.714, 0.783, and 0.857 separately. It seems Deep Learning Model shows the best accuray score for testing data.
+
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/ml%20gender%20and%20race.png)
+
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/ml%20race%20and%20job.png)
 
 
 Sources 
