@@ -56,18 +56,18 @@ What is the breakdown of minorities in High Tech jobs?
 * 0.34% American Indian/Alaska Native
 * 0.30% native Hawaiian/pacific islander 
 
-![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/minority%20pie%20chart.png)
+![image](https://user-images.githubusercontent.com/79819331/131014074-617b9df6-1e13-4cf5-b673-69719fabbd3e.png)
 
 What is the breakdown of minorities in management versus executives?
 * There is more racial and ethnic diversity amongst persons in managerial positions than executives in Silicon Valley. 
 
-![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/excs%20v.%20managers.png)
+![image](https://user-images.githubusercontent.com/79819331/131015277-332b4f7a-71ee-4836-826e-65db777fb9a6.png)
 
 Which companies did not share their 2016 EEO data publicly? 
 * The following companies did not release their 2016 EEO data publicly:
 
 
-![alt_text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/eeo%202016.png)
+![image](https://user-images.githubusercontent.com/79819331/131015513-7af2b6ac-e260-4528-b861-0e27b4f9fce1.png)
 
 
 * A10 Networks 
