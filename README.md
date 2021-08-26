@@ -3,7 +3,7 @@
  
 
 
-![image](https://github.com/iyesogie/Diversity--In--Tech/static/img/hero-bg.jpghttps://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
+![image](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
 
 
 
