@@ -89,6 +89,7 @@ Three machine learning models are used to classify data into private and public:
 
 
 
-
+## Project Team 
+Albe Eteme, Donald Yakam, Hussein Issa, Jessica Doanes, Jie Fang, and Stephany Obakpolor
 
 
