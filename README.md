@@ -32,7 +32,7 @@ We combined EEO_2016.csv and Distrubutions_data_2016.csv to create our database.
 
 What are the top 10 companies committed to diversity and inclusion before 2018?
 
-	The top 10 companies in regard to race and ethnicity are: 
+The top 10 companies in regard to race and ethnicity are: 
 * 23 & Me, AirBnB, PayPal, Pinterest, Intuit, Lyft, LinkedIn, Sanmina-SCI, eBay, and Square. 
 
 
@@ -40,7 +40,7 @@ What are the top 10 companies committed to diversity and inclusion before 2018?
 
 
 
-	The top 10 companies in regard to gender are: 
+The top 10 companies in regard to gender are: 
 * Apple, Intel, eBay, Twitter, Salesforce, MobileIron, Airbnb, 	   Adobe Systems, Intuit, 23 and Me
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20gender.png)
@@ -48,12 +48,12 @@ What are the top 10 companies committed to diversity and inclusion before 2018?
 What is the breakdown of minorities in High Tech jobs?
 Asians represent 26.47% of staff in Silicon Valley. This is the largest percentage amongst the racial and ethnic minorities.  Asians are followed by 7.20% for Latino/Hispanic, 5.12% for Black/African Americans, 1.56% for Mutliracial persons, and less than 1% for American Indaian/Alaska Native and Native Hawaiian/Pacifice Islander combined.
 
-* 26.47% asian 
+* 26.47% Asian 
 * 7.20% Latino/Hispanic
-* 5.12% Black
-* 1.56% 2 or more races 
+* 5.12% Black/African American
+* 1.56% Two or more races 
 * 0.34% American Indian/Alaska Native
-* 0.30% native Hawaiian/pacific islander 
+* 0.30% Native Hawaiian/Pacific Islander 
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/minority%20pie%20chart.png)
 
