@@ -1,6 +1,6 @@
 # Diversity--In--Tech
 
- ![image](https://user-images.githubusercontent.com/79819331/131006988-6742643f-ba72-4077-934d-d2ae6debd480.png)
+
 
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
@@ -9,16 +9,14 @@
 
 According to Reveal, the United States requires an annual submission of employee gender, race/ethnicity,  and job type from all companies with more than 100 employees. (Rangarajan, 2018) Following submission this data was generally private. This project seeks to understand workplace diversity across tech companies in Silicon Valley in 2016 and the shifts in publicly sharing this data. 
 
-<<<<<<< HEAD
+
 Data 
-=======
-## Data 
->>>>>>> d2828cd62b8ff0d9ada94e923b33d75b1c1f333c
+
+
 In 2018, Reveal from The Center for Investigative Reporting published a dataset, and the accompanying methodology, of 2016 Equal Employment Opportunity Commission (EEO) data for 211 tech companies in Silicon Valley. Click here to learn more about Reveal’s methodology.
 
 https://github.com/cirlabs/Silicon-Valley-Diversity-Data 
 
-<<<<<<< HEAD
 We used 4 sources for this analysis. 
 
 EEO_2016.csv provides detailed information on gender, race/ethnicity, and job type the companies that said yes in 2016_EEO_Release_Status.csv
