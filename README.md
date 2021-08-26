@@ -25,6 +25,8 @@ Transformation & Load
 We combined EEO_2016.csv and Distrubutions_data_2016.csv to create our database. Following the cleaning process, the database contained more than 4,000 rows. We then exported the database as a CSV file to create our visuals and analyze the results of three machine learning inquires.
 
 
+![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/Screen%20Shot%202021-08-24%20at%2010.51.43%20PM.png)
+
 
 Findings 
 
