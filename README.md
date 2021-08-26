@@ -2,6 +2,7 @@
 
  
 
+![image](https://user-images.githubusercontent.com/79819331/131013117-a72fd36e-1615-4ea2-bdd2-0f9bc5d7729f.png)
 
 ![image](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/TItle.png)
 
