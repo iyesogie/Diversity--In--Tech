@@ -114,7 +114,7 @@ Machine Learning
 
 Three machine learning models are used to classify data into private and public: KneighborsClassifier(KNN), Support Vector Machine Tuning Model(GridSearchCV), Deep Learning Model(Sequencital). Accuracy Score of testing data is 0.714, 0.783, and 0.857 separately. It seems Deep Learning Model shows the best accuray score for testing data.
 
-![image](https://user-images.githubusercontent.com/79819331/131016690-ea7fe3d7-bea0-4d1b-b734-3604779723db.png)
+![image](https://user-images.githubusercontent.com/79819331/131016779-3c2131d8-1445-438d-92e0-de9590d8ce29.png)
 
 
 ![image](https://user-images.githubusercontent.com/79819331/131016043-4e659970-b1b0-4763-b3d0-214423b359b3.png)
