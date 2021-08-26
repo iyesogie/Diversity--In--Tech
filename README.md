@@ -62,12 +62,10 @@ Asians represent 26.47% of staff in Silicon Valley. This is the largest percenta
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/excs%20v.%20managers.png)
 
 ### Which companies did not share their 2016 EEO data publicly? 
-* The following companies did not release their 2016 EEO data publicly:
-
 
 ![alt_text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/eeo%202016.png)
 
-
+* The following companies did not release their 2016 EEO data publicly:
 ![alt_text](https://github.com/iyesogie/Diversity--In--Tech/blob/main/images%20/no-public-EEO1.png)
 
 ![alt_text](https://github.com/iyesogie/Diversity--In--Tech/blob/main/images%20/no-public-EEO2.png)
