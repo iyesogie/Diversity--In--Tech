@@ -30,73 +30,78 @@ Findings
 
 What are the top 10 companies committed to diversity and inclusion before 2018?
 
-Race
-23 & Me, AirBnB, PayPal, Pinterest, Intuit, Lyft, LinkedIn, Sanmina-SCI, eBay, and Square. 
+	Race
+* 23 & Me, AirBnB, PayPal, Pinterest, Intuit, Lyft, LinkedIn, Sanmina-SCI, eBay, and Square. 
 
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20race.png)
 )
 
 
-Gender 
-Apple, Intel, eBay, Twitter, Salesforce, MobileIron, Airbnb, Adobe Systems, Intuit, 23 and Me
+	Gender 
+* Apple, Intel, eBay, Twitter, Salesforce, MobileIron, Airbnb, 	   Adobe Systems, Intuit, 23 and Me
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20gender.png)
 
 What is the breakdown of minorities in High Tech jobs?
-59.01% white
-26.47% asian 
-7.20% Latino/Hispanic
-5.12% Black
-1.56% 2 or more races 
-0.34% American Indian/Alaska Native
-0.30% native Hawaiian/pacific islander 
+* 59.01% white
+* 26.47% asian 
+* 7.20% Latino/Hispanic
+* 5.12% Black
+* 1.56% 2 or more races 
+* 0.34% American Indian/Alaska Native
+* 0.30% native Hawaiian/pacific islander 
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/minority%20pie%20chart.png)
 
 What is the breakdown of minorities in management versus executives?
-There is more racial and ethnic diversity amongst persons in managerial positions than executives in Silicon Valley. 
+* There is more racial and ethnic diversity amongst persons in managerial positions than executives in Silicon Valley. 
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/excs%20v.%20managers.png)
 
 Which companies did not share their 2016 EEO data publicly? 
-The following companies did not release their 2016 EEO data publicly:
+* The following companies did not release their 2016 EEO data publicly:
 
 
 ![alt_text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/eeo%202016.png)
 
 
-| Left-aligned | Center-aligned | Right-aligned |
-| 8x8 | A10 Networks | Abaxis |  Accuray | Advanced Micro Devices |
-| Aemetis | Aerohive Networks | Agilent Technologies | Align Technology | 
-Anaplan
-AppDirect
-Applied Materials
-Applied Micro Circuits
-Apttus
-Arista Networks
-Automattic
-Aviat Networks
-Barracuda Networks
-Bio-Rad Laboratories
-Bloom Energy
-Box
-Brocade Communications
-C3 IoT
-Cadence Design Systems
-Callidus Software
-Carbon
-Cavium
-Chegg
-CloudFlare
-Coherent
-Coherus Biosciences
-Credit Karma
-Crowdstrike
-Cypress Semiconductor
-Depomed
-Docker
-Docusign
+* A10 Networks 
+* Abaxis 
+* Accuray 
+* Advanced Micro Devices 
+* Aemetis 
+* Aerohive Networks 
+* Agilent Technologies 
+* Align Technology 
+* Anaplan
+* AppDirect
+* Applied Materials
+* Applied Micro Circuits
+* Apttus
+* Arista Networks
+* Automattic
+* Aviat Networks
+* Barracuda Networks
+* Bio-Rad Laboratories
+* Bloom Energy
+* Box
+* Brocade Communications
+* C3 IoT
+* Cadence Design Systems
+* Callidus Software
+* Carbon
+* Cavium
+* Chegg
+* CloudFlare
+* Coherent
+* Coherus Biosciences
+* Credit Karma
+* Crowdstrike
+* Cypress Semiconductor
+* Depomed
+* Docker
+* Docusign
 
 
 
@@ -118,6 +123,7 @@ Employers | U.S. Equal Employment Opportunity Commission. (2021). U.S. Equal Emp
 Long, K. A. (2021, April 14). New Amazon data shows Black, Latino and female employees are underrepresented in best-paid jobs. The Seattle Times. https://www.seattletimes.com/business/amazon/new-amazon-data-shows-black-latino-and-female-employees-are-underrepresented-in-best-paid-jobs/ 
 Rangarajan, M. B. S. (2018, November 29). How we created a baseline for Silicon Valley’s diversity problem. Reveal. https://revealnews.org/blog/how-we-created-a-baseline-for-silicon-valleys-diversity-problem/ 
 Women in Tech Report. (2021). TrustRadius CAPTCHA. https://www.trustradius.com/buyer-blog/women-in-tech-report 
+
 
 
 
