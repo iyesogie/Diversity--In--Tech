@@ -13,15 +13,13 @@ In 2018, Reveal from The Center for Investigative Reporting published a dataset,
 
 https://github.com/cirlabs/Silicon-Valley-Diversity-Data 
 
-We used 4 sources for this analysis. 
+We used 3 data sources for this analysis. 
 
-EEO_2016.csv provides detailed information on gender, race/ethnicity, and job type the companies that said yes in 2016_EEO_Release_Status.csv
+* EEO_2016.csv provides detailed information on gender, race/ethnicity, and job type the companies that said yes in 2016_EEO_Release_Status.csv
+* 2016_EEO_Release_Status.csv provides a list of the 211 that completed the survey. It indicates if 2016 EEO data was publicly shared or not. 
+* Distributions_data_2016.csv provides percentages for gender, race/ethnicity, and job type for the 211 companies that completed. It does not provide data by name for the companies that did not release their 2016 EEO. 
 
-2016_EEO_Release_Status.csv provides a list of the 211 that completed the survey. It indicates if 2016 EEO data was publicly shared or not. 
-
-Distributions_data_2016.csv provides percentages for gender, race/ethnicity, and job type for the 211 companies that completed. It does not provide data by name for the companies that did not release their 2016 EEO. 
-
-Transformation & Load
+### Transformation & Load
 We combined EEO_2016.csv and Distrubutions_data_2016.csv to create our database. Following the cleaning process, the database contained more than 4,000 rows. We then exported the database as a CSV file to create our visuals and analyze the results of three machine learning inquires.
 
 
@@ -30,7 +28,7 @@ We combined EEO_2016.csv and Distrubutions_data_2016.csv to create our database.
 
 ## Findings 
 
-What are the top 10 companies committed to diversity and inclusion before 2018?
+### What are the top 10 companies committed to diversity and inclusion before 2018?
 
 The top 10 companies in regard to race and ethnicity are: 
 * 23 & Me, AirBnB, PayPal, Pinterest, Intuit, Lyft, LinkedIn, Sanmina-SCI, eBay, and Square. 
@@ -45,7 +43,8 @@ The top 10 companies in regard to gender are:
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/top%2010%20gender.png)
 
-What is the breakdown of minorities in High Tech jobs?
+### What is the breakdown of minorities in High Tech jobs?
+
 Asians represent 26.47% of staff in Silicon Valley. This is the largest percentage amongst the racial and ethnic minorities.  Asians are followed by 7.20% for Latino/Hispanic, 5.12% for Black/African Americans, 1.56% for Mutliracial persons, and less than 1% for American Indaian/Alaska Native and Native Hawaiian/Pacifice Islander combined.
 
 * 26.47% Asian 
@@ -57,12 +56,12 @@ Asians represent 26.47% of staff in Silicon Valley. This is the largest percenta
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/minority%20pie%20chart.png)
 
-What is the breakdown of minorities in management versus executives?
+### What is the breakdown of minorities in management versus executives?
 * There is more racial and ethnic diversity amongst persons in managerial positions than executives in Silicon Valley. 
 
 ![alt text](https://raw.githubusercontent.com/iyesogie/Diversity--In--Tech/main/images%20/excs%20v.%20managers.png)
 
-Which companies did not share their 2016 EEO data publicly? 
+### Which companies did not share their 2016 EEO data publicly? 
 * The following companies did not release their 2016 EEO data publicly:
 
 
