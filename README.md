@@ -80,12 +80,12 @@ Three machine learning models are used to classify data into private and public:
 
 
 ## Sources 
-Daley, S. (2021, May 5). Women in Tech Statistics Show the Industry Has a Long Way to Go. Built In. https://builtin.com/women-tech/women-in-tech-workplace-statistics 
-Data. (2019, April 30). Inclusion Clearinghouse. https://inclusionclearinghouse.org/data/
-Employers | U.S. Equal Employment Opportunity Commission. (2021). U.S. Equal Employment Opportunity Commission. https://www.eeoc.gov/employers 
-Long, K. A. (2021, April 14). New Amazon data shows Black, Latino and female employees are underrepresented in best-paid jobs. The Seattle Times. https://www.seattletimes.com/business/amazon/new-amazon-data-shows-black-latino-and-female-employees-are-underrepresented-in-best-paid-jobs/ 
-Rangarajan, M. B. S. (2018, November 29). How we created a baseline for Silicon Valley’s diversity problem. Reveal. https://revealnews.org/blog/how-we-created-a-baseline-for-silicon-valleys-diversity-problem/ 
-Women in Tech Report. (2021). TrustRadius CAPTCHA. https://www.trustradius.com/buyer-blog/women-in-tech-report 
+* Daley, S. (2021, May 5). Women in Tech Statistics Show the Industry Has a Long Way to Go. Built In. https://builtin.com/women-tech/women-in-tech-workplace-statistics 
+* Data. (2019, April 30). Inclusion Clearinghouse. https://inclusionclearinghouse.org/data/
+* Employers | U.S. Equal Employment Opportunity Commission. (2021). U.S. Equal Employment Opportunity Commission. https://www.eeoc.gov/employers 
+* Long, K. A. (2021, April 14). New Amazon data shows Black, Latino and female employees are underrepresented in best-paid jobs. The Seattle Times. https://www.seattletimes.com/business/amazon/new-amazon-data-shows-black-latino-and-female-employees-are-underrepresented-in-best-paid-jobs/ 
+* Rangarajan, M. B. S. (2018, November 29). How we created a baseline for Silicon Valley’s diversity problem. Reveal. https://revealnews.org/blog/how-we-created-a-baseline-for-silicon-valleys-diversity-problem/ 
+* Women in Tech Report. (2021). TrustRadius CAPTCHA. https://www.trustradius.com/buyer-blog/women-in-tech-report 
 
 
 
