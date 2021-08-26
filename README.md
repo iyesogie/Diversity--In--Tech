@@ -47,13 +47,13 @@ What are the top 10 companies committed to diversity and inclusion before 2018?
 
 
 What is the breakdown of minorities in High Tech jobs?
-* 59.01% white
-* 26.47% asian 
+* 59.01% White
+* 26.47% Asian 
 * 7.20% Latino/Hispanic
 * 5.12% Black
 * 1.56% 2 or more races 
 * 0.34% American Indian/Alaska Native
-* 0.30% native Hawaiian/pacific islander 
+* 0.30% Native Hawaiian/Pacific Islander 
 
 ![image](https://user-images.githubusercontent.com/79819331/131014074-617b9df6-1e13-4cf5-b673-69719fabbd3e.png)
 
